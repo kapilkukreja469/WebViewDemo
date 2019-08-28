@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ActivityDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AdMobDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AllWidgetsDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AnimationDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AttendanceApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BottomNavigationDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ButterKnifeDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DesignTable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FirebaseDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FirebaseDemoUpdatedBySir" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FragmentDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GoogleMapsDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Impli" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InstaChat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JsonParsingDemoupdated" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LottieAnimationDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MySqliteDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NavigationDrawerDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NewsShots" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QrAttendanceApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RecyclerViewDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Recyclierview1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RetrofitDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RetrofitPostDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQLiteProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TabAndViewPagerDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Updated" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UseContentProviderDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VolleyDemoBySirUpdated" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WigdetsDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lifecycleactivity" vcs="Git" />
+  </component>
+</project>
