@@ -23,7 +23,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     public static EditText mTextMessage;
-
+    public static BottomNavigationView navView;
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
 
@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        BottomNavigationView navView = findViewById(R.id.nav_view);
+        navView = findViewById(R.id.nav_view);
         getSupportActionBar().hide();
         onFragmentChange(new GoogleFragment());
         mTextMessage = findViewById(R.id.message);
@@ -62,7 +62,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onBackClick(View view) {
-        Toast.makeText(this, "back pressed", Toast.LENGTH_SHORT).show();
+        navView.setSelectedItemId(R.id.navigation_google);
+
     }
 
     public void onClick(View view) {

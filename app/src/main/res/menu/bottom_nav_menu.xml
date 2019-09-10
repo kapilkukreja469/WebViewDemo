@@ -4,23 +4,23 @@
     <item
         android:id="@+id/navigation_google"
         android:icon="@drawable/ic_home_black_24dp"
-        android:title="@string/title_home" />
+        android:title="Google" />
 
     <item
         android:id="@+id/navigation_facebook"
         android:icon="@drawable/ic_dashboard_black_24dp"
-        android:title="@string/title_dashboard" />
+        android:title="Facebook" />
     <item
         android:id="@+id/navigation_twitter"
         android:icon="@drawable/ic_dashboard_black_24dp"
-        android:title="@string/title_dashboard" />
+        android:title="Twitter" />
     <item
         android:id="@+id/navigation_gmail"
         android:icon="@drawable/ic_dashboard_black_24dp"
-        android:title="@string/title_dashboard" />
+        android:title="Gmail" />
     <item
         android:id="@+id/navigation_instagram"
         android:icon="@drawable/ic_dashboard_black_24dp"
-        android:title="@string/title_dashboard" />
+        android:title="Instagram" />
 
 </menu>
